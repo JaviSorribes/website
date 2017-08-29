@@ -9,7 +9,7 @@ location: "Siegel Hall, Room 103"
 categories:
 - project
 status:
-- current
+- past
 tags:
 - arduino
 - software
@@ -28,7 +28,7 @@ carousel:
 - cArduino_03.jpg
 website: 
 ---
-Arduino Project
+Arduino Project (past project)
 
 Two semesters ago, the project started as the "Kinect Project". Its members made use of the Microsoft Kinect to create a rough design of an educational application. After just one semester, a good amount of progress was made, and a short demo was presented at an IEEE general body meeting. 
 
